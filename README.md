@@ -1,2 +1,3 @@
-# .jpj
-Welcome to my page everyone!
+# Jamir Prado Junior
+
+Welcome aboard! Let's sail around the Data Science World!
